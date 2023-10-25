@@ -1,0 +1,35 @@
+{
+  "name": "edea",
+  "version": "1.0.1",
+  "description": "A totally awesome restful web framework for BunJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanpmaxwell/edea.git"
+  },
+  "keywords": [
+    "edea",
+    "bun",
+    "bunjs",
+    "edeajs",
+    "rest",
+    "restful",
+    "micro",
+    "web",
+    "webframework",
+    "node",
+    "nodejs",
+    "backend",
+    "api",
+    "http"
+  ],
+  "author": "sean maxwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanpmaxwell/edea/issues"
+  },
+  "homepage": "https://github.com/seanpmaxwell/edea#readme"
+}
